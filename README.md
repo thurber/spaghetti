@@ -1,7 +1,7 @@
 # spaghetti
 A tutorial on using Git & GitHub - a recipe for spaghetti!
 
-### recipe
+### recipe!
 
 1. boil water
 2. add noodles

@@ -3,10 +3,13 @@ A tutorial on using Git & GitHub - a recipe for spaghetti!
 
 ### recipe
 
-1. boil water
-2. add noodles
-3. boil noodles
-4. drain noodles
-5. add sauce
-6. enjoy
+1. open wine
+2. boil water
+3. drink wine
+4. add noodles
+5. boil noodles
+6. drain noodles
+7. add sauce
+8. enjoy!
+9. open more wine
 
